@@ -1,19 +1,19 @@
 const CONFIG = {
-    introTitle: 'Babe à!',
+    introTitle: 'Linh ơiiii!',
     introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
+    Mà sao mày cứ đi nhầm đường
+    Lạc vào tim tao lẻ loi
+    Đằng sau chữ yêu đây là thương <3`,
     btnIntro: 'hihi',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 😙',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Vẫn cứ là thích anh <33',
-    btnNo: 'Không, Anh trai à :3',
-    question:'Trên thế giới hơn 7 tỉ người mà sao em lại yêu anh <3',
+    title: 'Mày đã thít teo 1 tí nèo chưaaa :>',
+    desc: 'Hình như teo bị si mày gòi íii ',
+    btnYes: 'Có 1 chút gòiii',
+    btnNo: 'Để xiem dư làooo',
+    question:'Vì seo mày nại thít teo :>>',
     btnReply: 'Gửi cho anh <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Anh biết mà 🥰. Yêu em nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h anh qua đón nhé công chúa.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    reply: 'Vì teo bị thỉu năng đúm khum :>>>',
+    mess: 'Teo bíc mày thít teo mờ :>>>',
+    messDesc: 'Đi học tao bao mày tà tưa nháaaa.',
+    btnAccept: 'Okiiiii lun :>>>>',
+    messLink: 'https://www.facebook.com/profile.php?id=100046027062221' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
